@@ -1,0 +1,71 @@
+{
+  "dates": {
+    "maximum": "2024-11-27",
+    "minimum": "2024-11-06"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1034541,
+      "original_language": "en",
+      "original_title": "Terrifier 3",
+      "overview": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
+      "popularity": 7119.469,
+      "poster_path": "/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+      "release_date": "2024-10-09",
+      "title": "Terrifier 3",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 551
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 912649,
+      "original_language": "en",
+      "original_title": "Venom: The Last Dance",
+      "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+      "popularity": 6160.532,
+      "poster_path": "/k42Owka8v91trK1qMYwCQCNwJKr.jpg",
+      "release_date": "2024-10-22",
+      "title": "Venom: The Last Dance",
+      "video": false,
+      "vote_average": 6.664,
+      "vote_count": 446
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4zlOPT9CrtIX05bBIkYxNZsm5zN.jpg",
+      "genre_ids": [
+        16,
+        878,
+        10751
+      ],
+      "id": 1184918,
+      "original_language": "en",
+      "original_title": "The Wild Robot",
+      "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "popularity": 5275.345,
+      "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "release_date": "2024-09-12",
+      "title": "The Wild Robot",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 2310
+    }
+
+  ],
+  "total_pages": 67,
+  "total_results": 1327
+}

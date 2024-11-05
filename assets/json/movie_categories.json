@@ -1,0 +1,59 @@
+{
+  "response": {
+    "status": true,
+    "data": {
+      "categories": [
+        {
+          "category_id": 21,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Comedies"
+        },
+        {
+          "category_id": 22,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Crime"
+        },
+        {
+          "category_id": 23,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Family"
+        },
+        {
+          "category_id": 24,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Documentaries"
+        },
+        {
+          "category_id": 25,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Dramas"
+        },
+        {
+          "category_id": 26,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Fantasy"
+        },
+        {
+          "category_id": 27,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Holidays"
+        },
+        {
+          "category_id": 28,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Horror"
+        },
+        {
+          "category_id": 29,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Sci-fi"
+        },
+        {
+          "category_id": 30,
+          "category_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "category_title": "Thriller"
+        }
+      ]
+    }
+  }
+}

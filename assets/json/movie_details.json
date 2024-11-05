@@ -1,0 +1,16 @@
+{
+  "response": {
+    "status": true,
+    "data": {
+      "movie_details": {
+        "movie_id": 21,
+        "movie_banner_image": "https://images.pexels.com/photos/109669/pexels-photo-109669.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "movie_title": "Free Guy",
+        "movie_release_date": 2021,
+        "movie_trailer_link": "https://example.com/trailer.mp4",
+        "movie_genres": ["Action", "Comedy", "Adventure"],
+        "movie_overview": "A bank teller discovers he is a background character in an open-world video game."
+      }
+    }
+  }
+}
